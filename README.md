@@ -1,6 +1,4 @@
-﻿# House-Prices---Advanced-Regression-Techniques
-
-# House Prices – Advanced Regression Techniques
+﻿# House Prices – Advanced Regression Techniques
 
 A machine learning project based on Kaggle's **House Prices: Advanced Regression Techniques** competition. The goal is to predict residential house sale prices using property features.
 
